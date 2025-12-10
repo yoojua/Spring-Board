@@ -1,5 +1,6 @@
-package com.Board;
+package com.Board.answer;
 
+import com.Board.question.Question;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
